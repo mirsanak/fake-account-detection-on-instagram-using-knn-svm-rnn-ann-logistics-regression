@@ -1,4 +1,4 @@
-# fake-account-detection-on-instagram-using-knn-svm-rnn-ann-logistics-regression Fake Account Detection on Instagram using ANN
+# fake-account-detection-on-instagram-using-ANN 
 
 Description
 
